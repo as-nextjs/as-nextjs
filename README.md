@@ -24,7 +24,7 @@ I have a wide range of hobbies and passions that keep me busy. From reading, pla
 
 ## GitHub Activity 📈
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=as-nextjs)
+![GitHub Activity](https://github-readme-activity-graph.herokuapp.com/graph?username=as-nextjs&theme=dracula)
 
 ## Let's Connect 🌐
 
