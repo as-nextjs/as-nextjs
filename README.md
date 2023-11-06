@@ -20,11 +20,11 @@ I have a wide range of hobbies and passions that keep me busy. From reading, pla
 
 ## Inspirational Quote 💡
 
-"Never stop growing and always push the limits of what is possible." - Abhay Singh
+"Embrace the unknown, for it is where innovation thrives, and greatness is forged." - Abhay Singh
 
 ## GitHub Stats 📊
 
-[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as-nextjs&show_icons=true&theme=dracula)](https://github.com/as-nextjs)
+[![Abhay's GitHub Stats](https://github.com/as-nextjs/as-nextjs/blob/master/github-metrics.svg)](https://github.com/as-nextjs)
 
 ## Let's Connect 🌐
 
@@ -33,5 +33,6 @@ Feel free to reach out, connect, or collaborate on exciting projects. You can co
 - Email: [aswi.in@outlook.com](mailto:aswi.in@outlook.com)
 - Instagram: [nextjs_developers](https://www.instagram.com/nextjs_developers/)
 - YouTube: [Next Developers](https://www.youtube.com/c/next_developers)
+- Website: [ASWI Website](https://www.aswi.in)
 
 Let's code, innovate, and learn together! 🚀
