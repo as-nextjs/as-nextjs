@@ -1,3 +1,7 @@
+## Inspirational Quote 💡
+
+"Never stop growing and always push the limits of what is possible." - Abhay Singh
+
 # Welcome to ASWI! 👨‍💻
 
 ![ASWI Logo](https://www.aswi.in/favicon.ico)
@@ -21,10 +25,6 @@ I have a wide range of hobbies and passions that keep me busy. From reading, pla
 ## GitHub Stats 📊
 
 [![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as-nextjs&show_icons=true&theme=dracula)](https://github.com/as-nextjs)
-
-## GitHub Activity 📈
-
-![GitHub Activity](https://github-readme-activity-graph.herokuapp.com/graph?username=as-nextjs&theme=dracula)
 
 ## Let's Connect 🌐
 
