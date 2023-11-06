@@ -24,7 +24,7 @@ I have a wide range of hobbies and passions that keep me busy. From reading, pla
 
 ## GitHub Stats 📊
 
-[![Abhay's GitHub Stats](https://github.com/as-nextjs/as-nextjs/blob/master/github-metrics.svg)](https://github.com/as-nextjs)
+[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as-nextjs&show_icons=true&theme=dracula)](https://github.com/as-nextjs)
 
 ## Let's Connect 🌐
 
