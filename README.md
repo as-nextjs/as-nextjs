@@ -22,9 +22,7 @@ I have a wide range of hobbies and passions that keep me busy. From reading, pla
 
 [![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as-nextjs&show_icons=true&theme=dracula)](https://github.com/as-nextjs)
 
-## Top Languages 🔥
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-nextjs&layout=compact&theme=dracula)](https://github.com/as-nextjs)
+![Total Commits](https://github.com/as-nextjs/as-nextjs/actions/workflows/total-commits.yml/badge.svg)
 
 ## Let's Connect 🌐
 
