@@ -32,7 +32,7 @@ Feel free to reach out, connect, or collaborate on exciting projects. You can co
 
 - Email: [aswi.in@outlook.com](mailto:aswi.in@outlook.com)
 - Instagram: [nextjs_developers](https://www.instagram.com/nextjs_developers/)
-- YouTube: [Next Developers]([https://www.youtube.com/c/next_developers](https://www.youtube.com/@next_developers))
+- YouTube: [Next Developers](https://www.youtube.com/@next_developers)
 - Website: [ASWI Website](https://www.aswi.in)
 
 Let's code, innovate, and learn together! 🚀
