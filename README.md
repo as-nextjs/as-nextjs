@@ -1,7 +1,3 @@
-## Inspirational Quote 💡
-
-"Never stop growing and always push the limits of what is possible." - Abhay Singh
-
 # Welcome to ASWI! 👨‍💻
 
 ![ASWI Logo](https://www.aswi.in/favicon.ico)
@@ -21,6 +17,10 @@ Hi, my name is Abhay Singh, and I am a highly ambitious, self-motivated, and dri
 I have a wide range of hobbies and passions that keep me busy. From reading, playing sports, traveling, to making YouTube videos, I am always seeking new experiences and love to keep myself engaged and learning new things.
 
 🌱 I believe that you should never stop growing, and that's what I strive to do. I have a passion for technology and a desire to always push the limits of what is possible. I am excited to see where my career takes me and am always open to new opportunities. 😊
+
+## Inspirational Quote 💡
+
+"Never stop growing and always push the limits of what is possible." - Abhay Singh
 
 ## GitHub Stats 📊
 
