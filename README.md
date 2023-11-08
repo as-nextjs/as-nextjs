@@ -1,7 +1,5 @@
 # Welcome to ASWI! 👨‍💻
 
-![ASWI Logo](https://www.aswi.in/favicon.ico)
-
 Welcome to ASWI ❤, a software company based in India. We are dedicated to providing free upskill courses, interactive lectures, and quizzes to help you excel in the world of software development.
 
 At ASWI, we believe in the power of knowledge and education 📖. Our mission is to empower individuals like you with the skills and expertise needed to succeed in the software industry. Whether you're a beginner or an experienced developer, we have resources tailored to your needs.
@@ -33,6 +31,6 @@ Feel free to reach out, connect, or collaborate on exciting projects. You can co
 - Email: [aswi.in@outlook.com](mailto:aswi.in@outlook.com)
 - Instagram: [nextjs_developers](https://www.instagram.com/nextjs_developers/)
 - YouTube: [Next Developers](https://www.youtube.com/@next_developers)
-- Website: [ASWI Website](https://www.aswi.in)
+- Website: [Software Company](https://www.aswi.in)
 
 Let's code, innovate, and learn together! 🚀
